@@ -1,3 +1,42 @@
+Created a admin panel design for ecommerce and movie streaming websites.
+
+Created Home Page 
+
+Graph created using rechart.
+
+![image](https://user-images.githubusercontent.com/34640475/128819369-495ab93d-ba4f-4243-b99b-c3ecd9f0ad71.png)
+
+created users page using material-ui-datagrid data-tables with edit and delete functionality
+
+![image](https://user-images.githubusercontent.com/34640475/128819546-1e0c44c7-20a7-4e11-bfb5-428ce633551b.png)
+
+created Edit user page 
+
+![image](https://user-images.githubusercontent.com/34640475/128819620-6c737fc6-0d64-43d7-abfe-a0c82f4841a0.png)
+
+create new user page 
+
+![image](https://user-images.githubusercontent.com/34640475/128820492-686a1612-d719-4541-b079-e8871feb0ecc.png)
+
+products page using material-ui-datagrid data-tables with edit and delete functionality
+
+![image](https://user-images.githubusercontent.com/34640475/128820588-71574a0c-b685-4532-a79a-42395c82fc71.png)
+
+edit product page
+
+![image](https://user-images.githubusercontent.com/34640475/128820646-1103d79d-7bce-412b-8aa6-aa24deabd725.png)
+
+create new product page 
+
+![image](https://user-images.githubusercontent.com/34640475/128820742-deb37019-44ea-474f-87b0-3cf9e8c3a997.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
